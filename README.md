@@ -2,7 +2,7 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
-[![Actions Status: test](https://https://github.com/eddwinpaz/eddwin-paz-api/workflows/test/badge.svg)](https://https://github.com/eddwinpaz/eddwin-paz-api/actions?query=is:success")
+[![Actions Status: test](https://https://github.com/eddwinpaz/eddwin-paz-api/workflows/test/badge.svg)](https://https://github.com/eddwinpaz/eddwin-paz-api/actions?query=is:success)
 
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
