@@ -20,7 +20,7 @@ jobs:
           node-version: 16
 
       - run: npm i -g @nestjs/cli
-      - run: npm install --global typescript
+      - run: npm install -g typescript
       - run: npm install
       - run: npm run test
       - run: npm run test:e2e
